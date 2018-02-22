@@ -1,0 +1,50 @@
+﻿[
+  {
+    "icon": "fa-mobile",
+    "name": "伊利"
+  },
+  {
+    "icon": "fa-laptop",
+    "name": "蒙牛"
+  },
+  {
+    "icon": "fa-car",
+    "name": "雅培"
+  },
+  {
+    "icon": "fa-motorcycle",
+    "name": "惠氏"
+  },
+  {
+    "icon": "fa-wheelchair",
+    "name": "雀巢"
+  },
+  {
+    "icon": "fa-paw",
+    "name": "美赞臣"
+  },
+  {
+    "icon": "fa-book",
+    "name": "美素佳儿"
+  },
+  {
+    "icon": "fa-asterisk",
+    "name": "多美滋"
+  },
+  {
+    "icon": "fa-gamepad",
+    "name": "贝因美"
+  },
+  {
+    "icon": "fa-shield",
+    "name": "诺优能"
+  },
+  {
+    "icon": "fa-at",
+    "name": "飞鹤"
+  },
+  {
+    "icon": "fa-home",
+    "name": "亨氏"
+  }
+]
