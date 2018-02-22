@@ -1,0 +1,50 @@
+﻿[
+  {
+    "icon": "fa-mobile",
+    "name": "中国"
+  },
+  {
+    "icon": "fa-laptop",
+    "name": "德国"
+  },
+  {
+    "icon": "fa-car",
+    "name": "新西兰"
+  },
+  {
+    "icon": "fa-motorcycle",
+    "name": "美国"
+  },
+  {
+    "icon": "fa-wheelchair",
+    "name": "英国"
+  },
+  {
+    "icon": "fa-paw",
+    "name": "法国"
+  },
+  {
+    "icon": "fa-book",
+    "name": "澳大利亚"
+  },
+  {
+    "icon": "fa-asterisk",
+    "name": "挪威"
+  },
+  {
+    "icon": "fa-gamepad",
+    "name": "荷兰"
+  },
+  {
+    "icon": "fa-shield",
+    "name": "瑞士"
+  },
+  {
+    "icon": "fa-at",
+    "name": "加拿大"
+  },
+  {
+    "icon": "fa-home",
+    "name": "瑞典"
+  }
+]

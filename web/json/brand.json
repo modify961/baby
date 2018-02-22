@@ -1,50 +1,158 @@
 ﻿[
   {
-    "icon": "fa-mobile",
-    "name": "伊利"
+    "country": "中国",
+    "brand": [
+      {
+        "name": "伊利",
+        "remark": ""
+      },
+      {
+        "name": "蒙牛",
+        "remark": ""
+      }
+    ]
   },
   {
-    "icon": "fa-laptop",
-    "name": "蒙牛"
+    "country": "德国",
+    "brand": [
+      {
+        "name": "伊利",
+        "remark": ""
+      },
+      {
+        "name": "蒙牛",
+        "remark": ""
+      }
+    ]
   },
   {
-    "icon": "fa-car",
-    "name": "雅培"
+    "country": "新西兰",
+    "brand": [
+      {
+        "name": "伊利",
+        "remark": ""
+      },
+      {
+        "name": "蒙牛",
+        "remark": ""
+      }
+    ]
   },
   {
-    "icon": "fa-motorcycle",
-    "name": "惠氏"
+    "country": "美国",
+    "brand": [
+      {
+        "name": "伊利",
+        "remark": ""
+      },
+      {
+        "name": "蒙牛",
+        "remark": ""
+      }
+    ]
   },
   {
-    "icon": "fa-wheelchair",
-    "name": "雀巢"
+    "country": "英国",
+    "brand": [
+      {
+        "name": "伊利",
+        "remark": ""
+      },
+      {
+        "name": "蒙牛",
+        "remark": ""
+      }
+    ]
   },
   {
-    "icon": "fa-paw",
-    "name": "美赞臣"
+    "country": "法国",
+    "brand": [
+      {
+        "name": "伊利",
+        "remark": ""
+      },
+      {
+        "name": "蒙牛",
+        "remark": ""
+      }
+    ]
   },
   {
-    "icon": "fa-book",
-    "name": "美素佳儿"
+    "country": "澳大利亚",
+    "brand": [
+      {
+        "name": "伊利",
+        "remark": ""
+      },
+      {
+        "name": "蒙牛",
+        "remark": ""
+      }
+    ]
   },
   {
-    "icon": "fa-asterisk",
-    "name": "多美滋"
+    "country": "挪威",
+    "brand": [
+      {
+        "name": "伊利",
+        "remark": ""
+      },
+      {
+        "name": "蒙牛",
+        "remark": ""
+      }
+    ]
   },
   {
-    "icon": "fa-gamepad",
-    "name": "贝因美"
+    "country": "荷兰",
+    "brand": [
+      {
+        "name": "伊利",
+        "remark": ""
+      },
+      {
+        "name": "蒙牛",
+        "remark": ""
+      }
+    ]
   },
   {
-    "icon": "fa-shield",
-    "name": "诺优能"
+    "country": "瑞士",
+    "brand": [
+      {
+        "name": "伊利",
+        "remark": ""
+      },
+      {
+        "name": "蒙牛",
+        "remark": ""
+      }
+    ]
   },
   {
-    "icon": "fa-at",
-    "name": "飞鹤"
+    "country": "加拿大",
+    "brand": [
+      {
+        "name": "伊利",
+        "remark": ""
+      },
+      {
+        "name": "蒙牛",
+        "remark": ""
+      }
+    ]
   },
   {
-    "icon": "fa-home",
-    "name": "亨氏"
+    "country": "瑞典",
+    "brand": [
+      {
+        "name": "伊利",
+        "remark": ""
+      },
+      {
+        "name": "蒙牛",
+        "remark": ""
+      }
+    ]
   }
 ]
