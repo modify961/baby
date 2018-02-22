@@ -3,7 +3,7 @@
         + '<a href= "country.html" >'
         + '<div class="focus-border">'
         + '<div class="focus-layout">'
-        + '<div class="focus-image"><i class="fa {0}"></i></div>'
+        + '<div class="focus-image"><img width="100" height="100" src="{0}" /></div>'
         + '<h4 class="clrchg">{1}</h4>'
         + '</div>'
         + '</div></a ></div >'; 

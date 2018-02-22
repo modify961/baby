@@ -4,21 +4,24 @@
     "img": "贝因美.jpg",
     "price": "430.00",
     "remark": "贝因美菁爱婴儿配方奶粉0-6月宝宝奶粉 1段牛奶粉2罐装原金装爱+",
-    "updateTime": "8:00"
+    "updateTime": "8:00",
+      "top": "true"
   },
   {
     "brand": "美素佳儿",
     "img": "meijiaer.jpg",
     "price": "99.58元/500g",
     "remark": "7【Friso 美素佳儿金装】荷兰原装进口幼儿配方奶粉3段1200g*2",
-    "updateTime": "8:00"
+    "updateTime": "8:00",
+    "top": "true"
   },
   {
     "brand": "美素佳儿",
     "img": "meijiaer.jpg",
     "price": "134.44元/500g",
     "remark": "7【Friso 美素佳儿金装】荷兰原装进口较大婴儿配方奶粉2段900g*2",
-    "updateTime": "8:00"
+    "updateTime": "8:00",
+    "top": "true"
   },
   {
     "brand": "爱他美",

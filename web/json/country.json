@@ -1,50 +1,50 @@
 ﻿[
   {
-    "icon": "fa-mobile",
+    "icon": "css/img/d1.ico",
     "name": "中国"
   },
   {
-    "icon": "fa-laptop",
+    "icon": "css/img/d2.ico",
     "name": "德国"
   },
   {
-    "icon": "fa-car",
+    "icon": "css/img/d3.ico",
     "name": "新西兰"
   },
   {
-    "icon": "fa-motorcycle",
+    "icon": "css/img/d4.ico",
     "name": "美国"
   },
   {
-    "icon": "fa-wheelchair",
+    "icon": "css/img/d5.ico",
     "name": "英国"
   },
   {
-    "icon": "fa-paw",
+    "icon": "css/img/d6.ico",
     "name": "法国"
   },
   {
-    "icon": "fa-book",
+    "icon": "css/img/d7.ico",
     "name": "澳大利亚"
   },
   {
-    "icon": "fa-asterisk",
+    "icon": "css/img/d8.ico",
     "name": "挪威"
   },
   {
-    "icon": "fa-gamepad",
+    "icon": "css/img/d9.ico",
     "name": "荷兰"
   },
   {
-    "icon": "fa-shield",
+    "icon": "css/img/d10.ico",
     "name": "瑞士"
   },
   {
-    "icon": "fa-at",
+    "icon": "css/img/d11.ico",
     "name": "加拿大"
   },
   {
-    "icon": "fa-home",
+    "icon": "css/img/d12.ico",
     "name": "瑞典"
   }
 ]

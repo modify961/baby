@@ -26,24 +26,24 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <script src="plugin/index.js"></script>
     <script type="text/javascript" src="js/jquery.flexisel.js"></script>
     <script>
-  $(document).ready(function () {
-    var mySelect = $('#first-disabled2');
+        $(document).ready(function () {
+            var mySelect = $('#first-disabled2');
 
-    $('#special').on('click', function () {
-      mySelect.find('option:selected').prop('disabled', true);
-      mySelect.selectpicker('refresh');
-    });
+            $('#special').on('click', function () {
+                mySelect.find('option:selected').prop('disabled', true);
+                mySelect.selectpicker('refresh');
+            });
 
-    $('#special2').on('click', function () {
-      mySelect.find('option:disabled').prop('disabled', false);
-      mySelect.selectpicker('refresh');
-    });
+            $('#special2').on('click', function () {
+                mySelect.find('option:disabled').prop('disabled', false);
+                mySelect.selectpicker('refresh');
+            });
 
-    $('#basic2').selectpicker({
-      liveSearch: true,
-      maxOptions: 1
-    });
-  });
+            $('#basic2').selectpicker({
+                liveSearch: true,
+                maxOptions: 1
+            });
+        });
     </script>
     <script type="text/javascript" src="js/jquery.leanModal.min.js"></script>
     <link href="css/jquery.uls.css" rel="stylesheet" />
@@ -57,15 +57,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <script src="js/jquery.uls.regionfilter.js"></script>
     <script src="js/jquery.uls.core.js"></script>
     <script>
-			$( document ).ready( function() {
-				$( '.uls-trigger' ).uls( {
-					onSelect : function( language ) {
-						var languageName = $.uls.data.getAutonym( language );
-						$( '.uls-trigger' ).text( languageName );
-					},
-					quickList: ['en', 'hi', 'he', 'ml', 'ta', 'fr'] //FIXME
-				} );
-			} );
+        $(document).ready(function () {
+            $('.uls-trigger').uls({
+                onSelect: function (language) {
+                    var languageName = $.uls.data.getAutonym(language);
+                    $('.uls-trigger').text(languageName);
+                },
+                quickList: ['en', 'hi', 'he', 'ml', 'ta', 'fr'] //FIXME
+            });
+        });
     </script>
     <style type="text/css">
         .displays {
@@ -90,7 +90,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <!-- Large modal -->
                 <div class="selectregion">
                     <button class="btn btn-primary" data-toggle="modal" data-target="#myModal">
-                       选择您所在的区域
+                        选择您所在的区域
                     </button>
                     <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel"
                          aria-hidden="true">
@@ -139,7 +139,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <div class="content">
         <div class="categories">
             <div class="container" id="container">
-               
+
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -148,9 +148,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <!-- slider -->
                 <div class="trend-ads">
                     <h2>今日优惠</h2>
-                    <ul id="flexiselDemo3">
-                    </ul>
-                   
+                    <ul id="flexiselDemo3"></ul>
+
                 </div>
             </div>
             <!-- //slider -->
@@ -163,43 +162,45 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <div class="foo-grids">
                     <div class="col-md-3 footer-grid"></div>
                     <div class="col-md-3 footer-grid">
-                        <h4 class="footer-head">公众号</h4>
-                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                        <p>The point of using Lorem Ipsum is that it has a more-or-less normal letters, as opposed to using 'Content here.</p>
+                        <h4 class="footer-head">微信公众号</h4>
+                        <div>
+                            <img width="180" height="180" src="css/img/aikid360.jpg" />
+                        </div>
                     </div>
-                    
-                    <div class="col-md-3 footer-grid"></div>
                     <div class="col-md-3 footer-grid">
                         <h4 class="footer-head">联系我们</h4>
-                        <span class="hq">Our headquarters</span>
-                        <address>
-                            <ul class="location">
-                                <li><span class="glyphicon glyphicon-earphone"></span></li>
-                                <li>QQ群：556261124</li>
-                                <div class="clearfix"></div>
-                            </ul>
-                            <ul class="location">
-                                <li><span class="glyphicon glyphicon-envelope"></span></li>
-                                <li><a href="mailto:modify961@126.com">modify961@126.com</a></li>
-                                <div class="clearfix"></div>
-                            </ul>
-                        </address>
+                        <div>
+                            <address>
+                                <ul class="location"></ul>
+                                <ul class="location">
+                                    <li><span class="glyphicon glyphicon-earphone"></span></li>
+                                    <li>QQ群：556261124</li>
+                                    <div class="clearfix"></div>
+                                </ul>
+                                <ul class="location">
+                                    <li><span class="glyphicon glyphicon-envelope"></span></li>
+                                    <li>邮箱：<a href="mailto:aikid360@126.com">aikid360@126.com</a></li>
+                                    <div class="clearfix"></div>
+                                </ul>
+
+                            </address>
+                        </div>
+                        <div class="col-md-3 footer-grid"></div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom text-center">
+                <div class="container">
+                    <div class="footer-logo">
+                        <a href="index.html"><span>Ai</span>Kid360</a>
+                    </div>
+                    <div class="copyrights">
+                        <p>Copyright &copy; </p>
                     </div>
                     <div class="clearfix"></div>
                 </div>
             </div>
-        </div>
-        <div class="footer-bottom text-center">
-            <div class="container">
-                <div class="footer-logo">
-                    <a href="index.html"><span>Ai</span>Kid360</a>
-                </div>
-                <div class="copyrights">
-                    <p>Copyright &copy; </p>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-        </div>
     </footer>
     <!--footer section end-->
 </body>
